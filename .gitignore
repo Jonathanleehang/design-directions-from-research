@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.tmp
+方向轮-*/
+方案-*/
+design-decisions.md
